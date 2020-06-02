@@ -1,0 +1,18 @@
+# INSTAGRAM CLONE
+### CREATED BY  Nyaga Benson
+
+----------------------------------------------------------------------
+
+## Project Objectives
+Simple API app built with Express JS
+----------------------------------------------------------------------
+
+## Technologies used
+Express JS
+Node JS
+
+## Retrieving all users
+On the address bar of the browser, type http://localhost:3000/api/users
+
+##Retrieving single user
+On the address bar of the browser, type http://localhost:3000/api/users/1
